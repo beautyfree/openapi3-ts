@@ -1,5 +1,10 @@
 # Changelog: openapi3-ts
 
+## Version 4.0.0  
+
+2023.01.09
+
+- Breaking change. Adds explicit support for OAS 3.0 and OAS 3.1 as separate implementations.
 
 ## Version 3.1.2
 
